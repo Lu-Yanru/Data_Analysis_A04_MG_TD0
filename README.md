@@ -44,7 +44,7 @@ B: \[~~Den Aufsatz~~\] Muss der Schüler morgen schreiben.
       - d. Den kann ich morgen schreiben. (full form x object)
 
 * 8 items, 32 fillers
-* Social qualities: educated (*gebildet*), arrogant (*arrogant*), articulate (*wortgewandt*), polite (*höflich*), pedantic (*pingelig*), formal (*formell*), friendly (*freundlich*)
+* Social qualities: educated (*gebildet*), arrogant (*arrogant*), articulate (*wortgewandt*), polite (*höflich*), relaxed (*locker*), pedantic (*pingelig*), formal (*formell*), friendly (*freundlich*)
 
 ### Implementation
 This experiment was conducted on the online plattform [Ibex Farm](https://korpling.german.hu-berlin.de/ibex/). The codes of the experiment can be found [here](https://github.com/Lu-Yanru/Ibex_A04_MG_TD0).
@@ -54,10 +54,10 @@ This experiment was conducted on the online plattform [Ibex Farm](https://korpli
     + 21 aged between 18 and 25, 1 aged between 36 and 45, 1 aged between 56 and 65
 
 ### Results
-* Main effect of <span style="font-variant:small-caps;">topic drop</span> for the scales: educated, articulate, polite, pedantic, formal and friendly (not for arrogant and locker).
+* Main effect of <span style="font-variant:small-caps;">topic drop</span> for the scales: educated, articulate, polite, pedantic, formal and friendly (not for arrogant and relaxed).
 
   topic drop rated lower than full form.
 
 * Interaction for the scales: polite and formal
 
-  topic drop x subject rated lower than topic drop x object
+  topic drop x subject rated lower than topic drop x object.
