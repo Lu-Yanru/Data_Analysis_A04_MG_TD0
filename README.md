@@ -51,13 +51,13 @@ This experiment was conducted on the online plattform [Ibex Farm](https://korpli
 
 * 23 participants
     + 17 female, 3 male, 1 diverse, 2 not specified
-    + 21 between 18 and 25, 1 between 36 and 45, 1 between 56 and 65
+    + 21 aged between 18 and 25, 1 aged between 36 and 45, 1 aged between 56 and 65
 
 ### Results
 * Main effect of <span style="font-variant:small-caps;">topic drop</span> for the scales: educated, articulate, polite, pedantic, formal and friendly (not for arrogant and locker).
 
   topic drop rated lower than full form.
 
-* Interaction: polite and formal
+* Interaction for the scales: polite and formal
 
   topic drop x subject rated lower than topic drop x object
